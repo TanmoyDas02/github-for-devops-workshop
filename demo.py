@@ -1,7 +1,5 @@
-def my_function():
+"""Demo module for pylint example."""
 
-    a = 5
-    return a 
-
-
-my_function()
+def demo_function():
+    """This is a demo function."""
+    print("Hello World")
